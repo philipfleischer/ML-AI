@@ -9,6 +9,7 @@ This repository contains my coursework, exercises, and projects from IN1160, wit
 
 ## Local environment
 
+Activate env:
 source mlai_env/bin/activate
 
 then:
