@@ -7,6 +7,15 @@ This repository contains my coursework, exercises, and projects from IN1160, wit
 
 ---
 
+## Local environment
+
+source mlai_env/bin/activate
+
+then:
+pip install -r requirements.txt
+
+---
+
 ## Course Overview
 
 IN1160 provides a foundational introduction to machine learning (ML) and artificial intelligence (AI), with emphasis on **practical applications**, correct usage of existing ML methods, and **design and evaluation of experiments**.
