@@ -15,6 +15,10 @@ source mlai_env/bin/activate
 then:
 pip install -r requirements.txt
 
+## Clone repo for obligs
+
+git clone https://github.uio.no/IN1160/v26.git
+
 ---
 
 ## Course Overview
