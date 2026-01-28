@@ -59,7 +59,7 @@ After completing this course, I will have:
 
 | Assignment | Topic                           | Browse     | Commit History |
 | ---------- | ------------------------------- | ---------- | -------------- |
-| Oblig 1a   | Vector space representations    | [Files](#) | [Commits](#)   |
+| Oblig 1a   | Vector space representations    | [Files]([#](https://github.com/philipfleischer/ML-AI/tree/main/oblig1a)) | [Commits](https://github.com/philipfleischer/ML-AI/commits/main/oblig1a)   |
 | Oblig 1b   | Supervised classification       | [Files](#) | [Commits](#)   |
 | Oblig 2a   | Linear regression               | [Files](#) | [Commits](#)   |
 | Oblig 2b   | Logistic regression             | [Files](#) | [Commits](#)   |
