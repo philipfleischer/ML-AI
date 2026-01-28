@@ -416,3 +416,9 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Datasets / large files
+NAK_oblig_1a.txt
+NAK_oblig_1a.txt.zip
+oblig1a/NAK_oblig_1a.txt
+oblig1a/NAK_oblig_1a.txt.zip
