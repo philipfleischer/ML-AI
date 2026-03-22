@@ -1,0 +1,10 @@
+Oppgave 2.4:
+
+
+Her er en lengre forklaring du kan skrive og øve med til eksamen:
+
+Trening av nevrale nettverk ligner trening av lineær og logistisk regresjon fordi målet i alle tilfellene er å finne parameterverdier som minimerer en tapsfunksjon. Dette gjøres ved å beregne gradienten til tapsfunksjonen med hensyn på modellens parametere, og deretter oppdatere parameterne i retning av den negative gradienten. Prinsippet bak læringen er altså det samme: modellen gjør en prediksjon, feilen måles med en tapsfunksjon, og parameterne justeres slik at fremtidige prediksjoner blir bedre.
+
+Forskjellen er at nevrale nettverk har mange flere parametere og flere lag med ikke-lineære aktiveringsfunksjoner. I lineær og logistisk regresjon er modellen mye enklere, og gradientene er derfor lettere å regne ut direkte. I nevrale nettverk må informasjonen først sendes fremover gjennom flere lag i en foroverfase, og deretter brukes tilbakepropagering for å beregne gradientene effektivt bakover i nettverket ved hjelp av kjerneregelen. Dette gjør treningen mer beregningskrevende og mer følsom for valg av hyperparametere som læringsrate, batch-størrelse og nettverksarkitektur.
+
+En annen viktig forskjell er at nevrale nettverk vanligvis trenes med mini-batch stokastisk gradientnedstigning, mens enklere modeller oftere kan trenes på hele datasettet samtidig. Mini-batches gjør treningen raskere og mer praktisk når datasettet og modellen er store, og det gir ofte også bedre resultater i praksis. Derfor bygger nevrale nettverk på de samme grunnideene som lineær og logistisk regresjon, men krever mer avanserte metoder for å kunne trenes effektivt.
